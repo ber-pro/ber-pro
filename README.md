@@ -1,7 +1,7 @@
  ### Hi there, I'm Vladislav Berezovskiy👋
 
 
- ## I'm Software Developer
+ ## I'm Software Engineer
  - 🚀 I am interested in studying fundamental CS
  - 📚 Diving into [The Go Programming Language][go].
 
