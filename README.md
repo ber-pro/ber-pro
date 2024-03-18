@@ -16,7 +16,7 @@
 
  ### 🔗 Connect with me
 [<img align="left" alt=" Березовский | Кухня программиста | Code and Coffee | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/telegram.svg"/> ][telegram]
-[<img align="left" alt="" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/gmail.svg" href="mailto:vladoligar345@gmail.com"  target="blank"/> ](mailto:vladoligar345@gmail.com")
+[<img align="left" alt="" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/gmail.svg" href="mailto:vladoligar345@gmail.com"  target="blank"/> ](mailto:vladoligar345@gmail.com)
 &nbsp;&nbsp;
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=BerPro)](https://github.com/BerPro/github-readme)
