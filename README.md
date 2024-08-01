@@ -19,7 +19,7 @@
 [<img align="left" alt="" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/gmail.svg" href="mailto:vladoligar345@gmail.com"  target="blank"/> ](mailto:vladoligar345@gmail.com)
 &nbsp;&nbsp;
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=BerPro)](https://github.com/BerPro/github-readme)
+![Leetcode Stats](https://leetcard.jacoblin.cool/BerPro?ext=heatmap)
 
 ![codewars](https://www.codewars.com/users/ber09/badges/large)
 
