@@ -15,7 +15,7 @@
 
 
  ### 🔗 Connect with me
-[<img align="left" alt=" Березовский | Кухня программиста | Code and Coffee | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/telegram.svg"/> ][telegram]
+[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/telegram.svg"/> ][telegram]
 [<img align="left" alt="" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/gmail.svg" href="mailto:vladoligar345@gmail.com"  target="blank"/> ](mailto:vladoligar345@gmail.com)
 &nbsp;&nbsp;
 
@@ -25,7 +25,7 @@
 
 
 [github]: https://github.com/ber-pro
-[telegram]: https://t.me/+eSRTvp9NaYE4ZmY6
+[telegram]: https://t.me/ber_pro
 [go]: https://go.dev/
 [python]: https://www.python.org/
 [rust]: https://www.rust-lang.org/
